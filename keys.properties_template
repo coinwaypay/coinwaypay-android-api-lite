@@ -1,0 +1,4 @@
+sampleapp.affiliatekey="<my-affiliate-key>"
+sampleapp.signingConfigs.storePassword=<my-store-pw>
+sampleapp.signingConfigs.keyAlias=<my-key-alias>
+sampleapp.signingConfigs.keyPassword=<my-key-password>
